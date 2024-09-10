@@ -23,5 +23,6 @@ again. After this, the accuracy was 0.811. I altered the code again, adding a la
 Sources:
 *Medium.com:
 https://medium.com/@reddyyashu20/cnn-python-code-in-keras-and-pytorch-48680615d2d7
+
 *3Blue1Brown YouTube:
 https://youtu.be/KuXjwB4LzSA?si=9z7sK-Dyxxvm37Tl
