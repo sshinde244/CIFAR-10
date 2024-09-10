@@ -1,5 +1,5 @@
-**CIFAR-10 Image Classification Program: Thoughts and Explanation
-**
+CIFAR-10 Image Classification Program: Thoughts and Explanation
+
 I began this problem by first trying to conceptualize how to use machine learning to
 complete this problem, which is to categorize tens of thousands of images into 10 categories. I
 considered the basic steps of machine learning:
