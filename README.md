@@ -20,7 +20,8 @@ my code ran correctly, and after 10 epochs my program had an accuracy of around 
 to 71%. I wanted to increase the accuracy, so I increased the number of epochs to 15 and ran it
 again. After this, the accuracy was 0.811. I altered the code again, adding a layer of convolution, after which my accuracy rose again to 0.8609.
 
-Sources:
+Sources: 
+
 *Medium.com:
 https://medium.com/@reddyyashu20/cnn-python-code-in-keras-and-pytorch-48680615d2d7
 
