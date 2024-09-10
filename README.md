@@ -8,6 +8,7 @@ considered the basic steps of machine learning:
 3. Train the model
 4. Test the model through a neural network
 5. Monitor results
+
 This model is a generalization of the overall machine learning process, but it was whatI
 was familiar with so I decided to follow it. To prep my data, I knew I had to load the CIFAR10
 dataset onto my program without downloading every image. A quick google search led me to
